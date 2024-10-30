@@ -6,9 +6,9 @@
 ### 📝 New to CODEFORCES?
 Are you someone who is new to code forces and feeling overwhelmed because of the number of problems, where to start? Do not feel stuck, I have a solution for you all.
 
->Start with any programming language fundamentals. <br>
->Click on this link [here](https://codeforces.com/group/MWSDmqGsZm/contest/219158). Beginners coding sheet this sheet consists of curated problems to start then you can move to the contest section and start giving DIV4 contest as they are specifically for beginners and then move up on the ladder as you proceed to DSA.
-If you like this piece of information, kindly show your support by liking the blog. Thank you Keep Coding.
+- Start with any programming language fundamentals. <br>
+- Click on this link [here](https://codeforces.com/group/MWSDmqGsZm/contest/219158). Beginners coding sheet this sheet consists of curated problems to start then you can move to the contest section and start giving div 4 contest as they are specifically for beginners and then move up on the ladder as you proceed to DSA. <br>
+>If you like this piece of information, kindly show your support by liking the blog. Thank you Keep Coding.
 
 
 >More resources will be added as I progress through my learning journey. <br>
