@@ -1,6 +1,7 @@
 # Codeforces
 <div align="center">
-  <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
+
+  <img src="    https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ5Z2R6ODFvaHgwNnV5ZWwyY2VpNnk5a2w0YXFhMmdxbnF3cXZreSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif width="100px"/>
 </div>
 
 ### New to CODEFORCES?
